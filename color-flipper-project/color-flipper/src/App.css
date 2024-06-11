@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+.button-container {
+  display: flex;          
+  justify-content: space-between; 
+  width: 100%;    
+}
+
+.red-button {
+  background-color: red;
+}
+
+.green-button {
+  background-color: green;
+}
+
+.blue-button {
+  background-color: blue;
+}
+
+.random-button {
+  background-color: white;
+}
+
+.parent-div {
+  background-color: black;
+  width: 100vh;
+  height: auto;
+}
